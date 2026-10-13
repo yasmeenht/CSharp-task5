@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|c:\\users\\user\\desktop\\orange tasks\\csharp-task5\\task5\\task5\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|solutionrelative:task5\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|c:\\users\\user\\desktop\\orange tasks\\csharp-task5\\task5\\task5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|solutionrelative:task5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|c:\\users\\user\\desktop\\orange tasks\\csharp-task5\\task5\\task5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|solutionrelative:task5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|c:\\users\\user\\desktop\\orange tasks\\csharp-task5\\task5\\task5\\schoolreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|solutionrelative:task5\\schoolreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|c:\\users\\user\\desktop\\orange tasks\\csharp-task5\\task5\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC31EB-493C-4189-9BE2-5FCFBDE00723}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:40:25.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Student.cs",
+              "RelativeDocumentMoniker": "task5\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Student.cs",
+              "RelativeToolTip": "task5\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:45:35.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Person.cs",
+              "RelativeDocumentMoniker": "task5\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Person.cs",
+              "RelativeToolTip": "task5\\Person.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:41:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Teacher.cs",
+              "RelativeDocumentMoniker": "task5\\Teacher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\Teacher.cs",
+              "RelativeToolTip": "task5\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:02:47.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolReport.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\SchoolReport.cs",
+              "RelativeDocumentMoniker": "task5\\SchoolReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\orange tasks\\CSharp-task5\\task5\\task5\\SchoolReport.cs",
+              "RelativeToolTip": "task5\\SchoolReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:22:56.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
